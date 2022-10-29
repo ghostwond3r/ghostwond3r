@@ -10,7 +10,7 @@ The willingness to learn is a choice.
 <p align="center">
 ..,/'\_ <<--wondR-->> /'\,..
 </p>
-</br></br>
+
 
 <p align="center">
   <img width="200" src="https://animated-gif-creator.com/images/03/fire-gif-transparent-gif-images-download_1.gif" alt="Icons">
