@@ -7,19 +7,6 @@ The ability to learn is a skill.
 <p align="center">
 The willingness to learn is a choice.
 </p>
-<p align="center">
-..,/'\_ <<--wondR-->> /'\,..
-</p>
 
-
-<p align="center">
-  <img width="200" src="https://animated-gif-creator.com/images/03/fire-gif-transparent-gif-images-download_1.gif" alt="Icons">
-  <img width="200" src="https://animated-gif-creator.com/images/03/fire-gif-transparent-gif-images-download_1.gif" alt="Icons">
-  <img width="200" src="https://animated-gif-creator.com/images/03/fire-gif-transparent-gif-images-download_1.gif" alt="Icons">
-</p>
-</br>
-
-<p align="center">
-
-</p>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=⚡%20NBP%20⚡&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
