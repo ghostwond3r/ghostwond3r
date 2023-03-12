@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600" height="100" src="https://64.media.tumblr.com/4341f3af4a6699bd022eb84992dcccd8/df79a0f1594d1667-55/s1280x1920/ccb6f5b8653923a1f5099bf8734b836b6fdc5b29.gifv" alt="ccb6f5b8653923a1f5099bf8734b836b6fdc5b29">
+<img width="600" height="80" src="https://64.media.tumblr.com/4341f3af4a6699bd022eb84992dcccd8/df79a0f1594d1667-55/s1280x1920/ccb6f5b8653923a1f5099bf8734b836b6fdc5b29.gifv" alt="ccb6f5b8653923a1f5099bf8734b836b6fdc5b29">
 </p>
 
 <hr>
@@ -17,5 +17,5 @@ The willingness to learn is a choice
 </p>
 
 <p align="center">
-<img width="650" height="100" src="https://64.media.tumblr.com/4341f3af4a6699bd022eb84992dcccd8/df79a0f1594d1667-55/s1280x1920/ccb6f5b8653923a1f5099bf8734b836b6fdc5b29.gifv" alt="ccb6f5b8653923a1f5099bf8734b836b6fdc5b29">
+<img width="650" height="80" src="https://64.media.tumblr.com/4341f3af4a6699bd022eb84992dcccd8/df79a0f1594d1667-55/s1280x1920/ccb6f5b8653923a1f5099bf8734b836b6fdc5b29.gifv" alt="ccb6f5b8653923a1f5099bf8734b836b6fdc5b29">
 </p>
