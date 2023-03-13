@@ -4,12 +4,16 @@
 
 <hr>
 <p align="center">
-The capacity to learn is a gift<br>
-The ability to learn is a skill<br>
-The willingness to learn is a choice
+THE CAPACITY TO LEARN IS A GIFT<br>
+THE ABILITY TO LEARN IS A SKILL<br>
+THE WILLINGNESS TO LEARN IS A CHOICE
+</p>
+<p align="center">
+++++\/++++<br>
+  NEW BLOOD PROJECT<br>
+++++/\++++
 </p>
 <hr>
-
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/NeverWonderLand?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/NeverWonderLand?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
