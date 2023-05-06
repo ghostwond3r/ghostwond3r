@@ -20,3 +20,6 @@ THE WILLINGNESS TO LEARN IS A CHOICE
 <p align="center">
 <img width="650" height="80" src="https://64.media.tumblr.com/4341f3af4a6699bd022eb84992dcccd8/df79a0f1594d1667-55/s1280x1920/ccb6f5b8653923a1f5099bf8734b836b6fdc5b29.gifv" alt="ccb6f5b8653923a1f5099bf8734b836b6fdc5b29">
 </p>
+
+<hr>
+To support all my crazy project =>> bitcoin:bc1qax7kackunv2zrhmnjw36cd45w64nj74cxd9f9f
