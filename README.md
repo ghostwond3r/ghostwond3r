@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" alt="hello"
+<img width="160" height="160" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" alt="hello"
 </p>
 
 <p align="center">
@@ -22,4 +22,6 @@ THE WILLINGNESS TO LEARN IS A CHOICE
 </p>
 
 <hr>
-To support all my crazy project =>> bitcoin:bc1qax7kackunv2zrhmnjw36cd45w64nj74cxd9f9f
+
+To support all my crazy project send **₿**itcoin ```bc1qax7kackunv2zrhmnjw36cd45w64nj74cxd9f9f```
+
