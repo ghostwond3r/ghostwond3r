@@ -1,27 +1,18 @@
 <p align="center">
-<img width="160" height="160" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" alt="hello"
+<img width="350" height="250" src="https://github.com/NeverWonderLand/NeverWonderLand/assets/64184513/1b82dfc3-3299-4f73-ad32-fa03e9ff4fcf" alt="hello"
 </p>
 
 <p align="center">
-THE CAPACITY TO LEARN IS A GIFT<br>
-THE ABILITY TO LEARN IS A SKILL<br>
-THE WILLINGNESS TO LEARN IS A CHOICE
+There are no shortcuts to any place worth going.
 </p>
 <p align="center">
-++++\/++++<br>
-  NEW BLOOD PROJECT<br>
-++++/\++++
 </p>
 
 <p align="center">
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/NeverWonderLand?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-<img width="650" height="80" src="https://64.media.tumblr.com/4341f3af4a6699bd022eb84992dcccd8/df79a0f1594d1667-55/s1280x1920/ccb6f5b8653923a1f5099bf8734b836b6fdc5b29.gifv" alt="ccb6f5b8653923a1f5099bf8734b836b6fdc5b29">
-</p>
-
 <hr>
 
-To support all my crazy project send **₿**itcoin ```bc1qax7kackunv2zrhmnjw36cd45w64nj74cxd9f9f```
+To support send **₿**itcoin ```bc1qax7kackunv2zrhmnjw36cd45w64nj74cxd9f9f```
 
