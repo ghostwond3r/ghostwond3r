@@ -1,5 +1,5 @@
 <p align="center">
-<img width="150" height="150" src="https://github.com/NeverWonderLand/NeverWonderLand/assets/64184513/403aed8d-247f-470c-9a2f-58626950326c" alt="hello"
+<img width="250" height="180" src="https://github.com/NeverWonderLand/NeverWonderLand/assets/64184513/a3d28e05-eb05-47f2-a9fc-0f249f025bcb" alt="hello"
 </p>
 
 # There are no shortcuts to any place worth going.
