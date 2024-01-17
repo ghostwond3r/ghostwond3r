@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub Org's stars" width="1000" height="80" src="https://i.pinimg.com/originals/9e/3d/c4/9e3dc44bced5bb5c0d9cc6f439500b02.gif"
+  <img alt="GitHub Org's stars" width="1000" height="250" src="https://github.com/ghostwond3r/ghostwond3r/assets/64184513/2ff1937d-5ebd-46f6-bfcb-cbba41434f20"
 </p>
 
 <p align="center">
