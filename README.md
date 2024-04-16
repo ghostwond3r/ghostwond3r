@@ -1,7 +1,4 @@
-<p align="center">
-  <img alt="Gif" width="900" height="300" src="https://cdn.quotesgram.com/img/10/68/1637503720-text_20quotes_20hacking_20funny_wallpaperbeautiful_7.jpg"
-</p>
-
-<p align="center">
-  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ghostwond3r?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=ghostwond3r&theme=neon&hide=issues,contribs,prs&card_width=100&rank_icon=github&text_bold=false&hide_title=true" /> 
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostwond3r&card_width=100&theme=neon&size_weight=0.5&count_weight=0.5&text_bold=false&hide=html&hide_title=true" />
+</a>
